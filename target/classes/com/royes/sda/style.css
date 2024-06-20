@@ -1,0 +1,30 @@
+#wrap {
+    -fx-background-image: url("background.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 150%;
+    -fx-background-position: center center;
+}
+#content
+{
+    -fx-background-color: rgba(0,0,0,0);
+}
+#rb{
+    -fx-background-color: CRIMSON;
+    -fx-text-fill: white;
+}
+#bst{
+    -fx-background-color: CRIMSON;
+    -fx-text-fill: white;
+}
+#insertButton{
+    -fx-background-color: GREEN;
+    -fx-text-fill: white;
+}
+#deleteButton{
+    -fx-background-color: CRIMSON;
+    -fx-text-fill: white;
+}
+#searchButton{
+    -fx-background-color: 	MEDIUMBLUE;
+    -fx-text-fill: white;
+}
